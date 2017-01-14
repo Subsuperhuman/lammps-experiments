@@ -1,0 +1,30 @@
+ LAMMPS 2d micelle data file
+ 
+           2  atoms
+           1  bonds
+           0  angles
+           0  dihedrals
+           0  impropers
+ 
+           1  atom types
+           1  bond types
+           0  angle types
+           0  dihedral types
+           0  improper types
+ 
+  0.0000000E+00   35.85686      xlo xhi
+  0.0000000E+00   35.85686      ylo yhi
+ -0.1000000      0.1000000      zlo zhi
+ 
+ Masses
+ 
+           1   1.000000   
+ 
+ Atoms
+ 
+      1      0      1   0.000   0.000   0.000
+      2      0      1   1.195   0.000   0.000
+ 
+ Bonds
+ 
+      1      1    1    2
